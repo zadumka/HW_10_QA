@@ -1,7 +1,7 @@
     1  cd Desktop/qa/GIT
     2  git config --global user.name
     3  git config --global user.email
-    4  git clone git@github.com:Mari-fil/HW_10.git
+    4  git clone github.com/zadumka/HW_10_QA.git
     5  cd HW_10
     6  touch text_ignore.txt
     7  nano .gitignore
